@@ -35,7 +35,5 @@ Performance Monitoring
 ```
 curl http://localhost:9092/actuator
 
-curl http://localhost:9092/actuator/info
 curl http://localhost:9092/actuator/health
-curl http://localhost:9092/actuator/prometheus
 ```
